@@ -1,0 +1,25 @@
+Apple
+Banana
+Orange
+Mango
+Pineapple
+Strawberry
+Blueberry
+Raspberry
+Blackberry
+Watermelon
+Cantaloupe
+Kiwi
+Peach
+Plum
+Cherry
+Pear
+Grapes
+Pomegranate
+Papaya
+Guava
+Apricot
+Fig
+Passion fruit
+Dragon fruit
+Lychee
