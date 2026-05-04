@@ -2,6 +2,15 @@ package oop.labor10;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Lab_10");
+
+        SortingDemo test = new SortingDemo("fruits.txt");
+
+        test.printFruits();
+        test.sort();
+        test.reversedSort();
+
+        /*for(String v: test.getFruits()){
+            System.out.println(v);
+        }*/
     }
 }
